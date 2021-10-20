@@ -4,4 +4,4 @@ This is a SMU Software Development Club Project
 
 ## Tech Stack
 
-React, Node
+React, Node, Express
