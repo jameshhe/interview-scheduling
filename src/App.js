@@ -5,9 +5,9 @@ function App() {
     return (
         <div className='App'>
             <nav>
-                <a>Home</a>
-                <a>Schedule</a>
-                <a>Resources</a>
+                <a href='#'>Home</a>
+                <a href='#'>Schedule</a>
+                <a href='#'>Resources</a>
             </nav>
             <button>New Button!</button>
         </div>
